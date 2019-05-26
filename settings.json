@@ -1,0 +1,44 @@
+{
+    "window.zoomLevel": 0,
+    "workbench.sideBar.location": "left",
+    "workbench.iconTheme": "vscode-icons",
+    "workbench.colorTheme": "One Monokai",
+    "editor.formatOnSave": false,
+    "prettier.tslintIntegration": true,
+    "prettier.arrowParens": "always",
+    "prettier.tabWidth": 4,
+    "prettier.printWidth": 120,
+    "[javascript]": {
+        "editor.formatOnSave": true,
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "[javascriptreact]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[typescript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "editor.codeActionsOnSave": {
+        "source.fixAll.tslint": true
+    },
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "[json]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "csharp.format.enable": true
+}
+
+
+
+
+
+
+
+
+
+
+
+
